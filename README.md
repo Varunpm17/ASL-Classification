@@ -26,5 +26,5 @@ Heatmap:
 
 
 ## Conclusion and Next Steps
-This image classifier is the first step towards creating a tool that Non-ASL speakers can use to simply record ASL being performed and in real time get a live english translation. That is my ultimate goal for this project. I plan on testing the classifier on my own images that I created. I then plan to work with prerecorded video and use OpenCV to track the movement of each hand in a bounding box. Finally I want to be able to process all that data in real time. I think that this would prove to be a very helpful tool as there is currently nothing like it on the market today. 
+This image classifier is the first step towards creating a tool that Non-ASL speakers can use to simply record ASL being performed and in real time get a live english translation. That is my ultimate goal for this project. I plan on testing the classifier on my own images that I created. I then plan to work with prerecorded video and use OpenCV to track the movement of each hand in a bounding box. Finally I want to be able to process all that data in real time. I think that this would prove to be a very helpful tool as there is currently nothing like it on the market today. Easy communication with the deaf is critical to have and harnessing the power of machine learning could potentially yield powerful solutions.
 
